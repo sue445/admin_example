@@ -1,3 +1,8 @@
+PATH
+  remote: admin
+  specs:
+    admin (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -154,6 +159,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  admin!
   byebug
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
